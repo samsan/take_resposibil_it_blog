@@ -1,5 +1,5 @@
 A me stesso del 2035, se ci arriverò non dematerializzato.
-Sei a poche ore dal compiere 50 anni, spero che queste parole ti trovino in forze, ma, più importante, soprattutto amato, vivo: non ancorato alle cose ma vivificato dalle relazioni.
+Sei a poche ore dal compiere 50 anni, spero che queste parole ti trovino in forze, ma, più importante, soprattutto amato (o meglio cosciente di esserlo), vivo: non ancorato alle cose ma vivificato dalle relazioni.
 
 Domani spegnerò 40 candeline: mi ritrovo grato di una vita ricolma di doni, più grandi e belli di quelli che avrei potuto immaginare, chiedere, desiderare; ho ricevuto tutto, in sovrabbondanza.
 
