@@ -59,9 +59,11 @@ Una domanda che stimola la progettualità e fa lo sgambetto alla ricerca istintu
 
 ### **La mattina**
 
-#### **Silenzio** Mi sveglio e ritengo fondamentale lasciare la mente libera di svegliarsi e vagare. Silenzio (la famiglia sta ancora dormendo) e niente smartphone, per almeno un’ora da quando suona la sveglia. 
+#### **Silenzio** 
+Mi sveglio e ritengo fondamentale lasciare la mente libera di svegliarsi e vagare. Silenzio (la famiglia sta ancora dormendo) e niente smartphone, per almeno un’ora da quando suona la sveglia. 
 
-#### **Svegliare il corpo** L’allenamento (quasi) quotidiano è una routine consolidata da più di 10 anni: 20 minuti intensi tra squat, piegamenti, trazioni. Mi ritrovo più energico con 30 minuti di sonno in meno e un allenamento in più.
+#### **Svegliare il corpo** 
+L’allenamento (quasi) quotidiano è una routine consolidata da più di 10 anni: 20 minuti intensi tra squat, piegamenti, trazioni. Mi ritrovo più energico con 30 minuti di sonno in meno e un allenamento in più.
 
 #### **Svegliare la mente: diario di bordo**
 
