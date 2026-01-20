@@ -17,3 +17,8 @@ Questa fame ci aiuta, se assecondata, a mantenere la traiettoria, aggiustare il 
 Siamo esploratori, non conosciamo la prossima vallata, ma abbiamo una bussola formidabile e infallibile: la nostra fame di infinito, la firma di Dio nel nostro cuore.
 
 Sono grato per quella piccola lettura.
+
+
+{% if page.comments != false %}
+  {% include disqus.html %}
+{% endif %}
