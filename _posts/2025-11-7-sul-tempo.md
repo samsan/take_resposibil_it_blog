@@ -162,3 +162,7 @@ Risorse utili che mi hanno aiutato ad entrare nel mondo della gestione del tempo
   * Digital Minimalism: Choosing a Focused Life in a Noisy World  
 * Greg McKeown: Essentialism 
 
+
+{% if page.comments != false %}
+  {% include disqus.html %}
+{% endif %}

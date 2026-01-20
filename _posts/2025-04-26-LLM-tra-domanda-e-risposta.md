@@ -45,3 +45,7 @@ Potremmo pian piano abbassare l'asticella fino a che la minima fatica potrebbe d
 Potremmo scegliere, fin dall tenera età, di farci imboccare di idee, di nozioni.
 
 E se chi ha le chiavi decidesse di cambiare la nostra dieta, avremmo la forza e la volontà di rimanere autonomi?
+
+{% if page.comments != false %}
+  {% include disqus.html %}
+{% endif %}
